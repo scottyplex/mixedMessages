@@ -1,17 +1,13 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <link href="./resources/css/index.css" type="text/css" rel="stylesheet">
-    <title>Mixed Messages</title>
-</head>
-<body>
+  <head>
+    <link rel="stylesheet" href="resources/css/index.css">
+    <script src="resources/js/main.js"></script>
+  </head>
+  <body>
     <h1>Mixed Messages</h1>
-    <p>Click below for your message:</p>
-    <ul>
-      <li>Learn to code</li>
-      <li>Start a company</li>
-      <li>Help the world</li>
-    </ul>
-    <p>This is one of my favorite websites: <a href="https://www.google.com/" target="_blank">Google</a></p>
-</body>
+    <p id="one"><p></p>There is a hidden message for you. Click to see it.</p>
+    <button onClick="JavaScript:randomMessage()">Click Me</button>
+    <p id="message"></p>
+  </body>
 </html>
