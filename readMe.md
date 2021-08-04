@@ -20,9 +20,6 @@ This is a simple webpage that by a click of a button randomly generates a meal i
 
 Scott Lichty
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
 ## Version History
 
 * 0.1
