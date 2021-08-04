@@ -1,6 +1,6 @@
 function randomMessage() {
     protein = ['Chicken ', 'Steak ', 'Shrimp ', 'Ham ', 'Salmon ', 'Ribs ', 'Wings ', 'Burger '];
-    starch = ['Rice ', 'Couscous ', 'Mashed Potatoes ', 'French Fries ', ''];
+    starch = ['Rice ', 'Couscous ', 'Mashed Potatoes ', 'French Fries ',];
     veggie = ['Corn on the Cobb ', 'Green Beans ', 'Carrots ', 'Peas ', 'Broccoli ', 'Brussel Sprouts ', 'Sweet Potatoes', 'Asparagus '];
     desert = ['Cupcakes', 'Jell-O', 'Carrot Cake', 'Apple Pie', 'Ice Cream', 'Brownies', 'Chocolate Chip Cookies', 'Chocolate Cake'];
 
