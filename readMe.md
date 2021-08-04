@@ -1,10 +1,5 @@
 # <ins>Mixed Messages</ins>
 
-> This project generates a random meal including Protien, Starch, Veggie and desdert.
-> 
-
-# <ins>Mixed Messages</ins>
-
 This project generates a random meal.
 
 ## Description
