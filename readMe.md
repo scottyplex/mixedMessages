@@ -1,26 +1,28 @@
-# <ins>Mixed Messages</ins>
+Random Meal Generator
+This is a simple, single-page web application that helps you decide what to eat by generating a random meal suggestion with the click of a button. It is a great example of a beginner-friendly project that combines HTML, CSS, and JavaScript.
 
-This project generates a random meal.
+Purpose
+The purpose of this project is to provide a quick and interactive solution for a common problem: indecisiveness about what to eat. It also serves as an excellent educational tool for learning how to build a basic web page with client-side scripting.
 
-## Description
+Features
+Interactive Button: A simple button that triggers the meal generation.
 
-This is a simple webpage that by a click of a button randomly generates a meal including Protien, Starch, Veggie and dessert.
+Randomized Output: Provides a different meal suggestion each time you click the button.
 
-## Getting Started
+Clean Interface: Uses basic HTML and CSS to present a clean, easy-to-use interface.
 
-### Dependencies
+Usage
+To run this application, you only need to open the index.html file in any modern web browser.
 
-* Web Browser
+This project relies on the following files to function correctly:
 
-### Executing program
+index.html: The main structure of the web page.
 
-* Open index.html in you choice of Web Broswer. Google Chrome, Firefox ect..
+resources/js/main.js: Contains the JavaScript code that handles the meal generation logic.
 
-## Authors
+resources/css/index.css: Provides the styling for the page.
 
-Scott Lichty
+Notes
+Adaptability: The main.js file can be easily edited to include your own list of meals, making it a personalized tool.
 
-## Version History
-
-* 0.1
-    * Initial Release
+Learning: This project is perfect for new developers looking to practice working with the Document Object Model (DOM), handling user events, and using arrays in JavaScript.
